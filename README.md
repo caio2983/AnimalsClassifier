@@ -26,7 +26,7 @@ Logistic Regression is applied to the data:
 
 ![image](https://github.com/user-attachments/assets/12673ded-9280-4683-89db-844208bb5740)
 
-## Performance Measures
+<h2 align="center">Performance Measures</h2>
 
 <h3>Accuracy</h3>
 
