@@ -1,4 +1,10 @@
 <h1 align="center">Animals Classifier</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+</p>
 
 <p>Machine Learning Project where I developed an image classifier to distinguish between dogs, ducks, and foxes using Logistic Regression. The images were obtained through public APIs specific to each category. I performed data cleaning and organization using the Pandas library, and used Scikit-learn for model building and evaluation. Matplotlib was also used to generate visualizations that supported the analysis of results.</p>
 
